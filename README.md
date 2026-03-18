@@ -1,4 +1,4 @@
-![Banner](https://drive.google.com/file/d/1Qhn9U2JdPPKO4NseFRQS7RnkeqP1lQXB/view?usp=sharing)
+![Banner](https://drive.google.com/uc?export=view&id=1Qhn9U2JdPPKO4NseFRQS7RnkeqP1lQXB)
 
 # 👋 ¡Hola! Soy Miguel Angel Mejia Sanchez
 ### Profesional de TI | Especialista en Gestión de Proyectos & Desarrollo Híbrido (Hardware/Software)

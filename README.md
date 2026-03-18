@@ -1,3 +1,5 @@
+![Banner]([url-de-tu-imagen](https://gemini.google.com/share/aa36bd863e06))
+
 # 👋 ¡Hola! Soy Miguel Angel Mejia Sanchez
 ### Profesional de TI | Especialista en Gestión de Proyectos & Desarrollo Híbrido (Hardware/Software)
 

@@ -59,5 +59,5 @@ Experto en liderar equipos y procesos bajo estándares internacionales:
 ## ✉️ ¡Conectemos!
 ¿Buscas un perfil que entienda tanto el código como la gestión y el hardware? ¡Hablemos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/miguel-ti](https://www.linkedin.com/in/miguel-%C3%A1ngel-mej%C3%ADa-s%C3%A1nchez-7b78541b0)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-%C3%A1ngel-mej%C3%ADa-s%C3%A1nchez-7b78541b0)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:migueamejias.mams@gmail.com)
